@@ -13,13 +13,6 @@ body {
 .infoContainer {
     width: 75%;
 }
-.person h6 span {
-    color: var(--main-color);
-    font-weight: 800;
-}
-ul {
-    font-size: 25px;
-}
 a {
     color: blue;
 }
